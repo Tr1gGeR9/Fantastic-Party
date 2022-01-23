@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(189, 247, 112);
+    margin: 20px;
+    padding: 10px;
+}
+
+header img {
+    margin: 5px;
+}  
+
+header a {
+    text-decoration: none;
+    border-radius: 8px ;
+    border: 4px solid red;
+    color: lightblue;
+    background-color: royalblue;
+    margin: 10px;
+    padding: 5px;
+}
+
+body h1 {
+   color: red;
+   background-color: aquamarine; 
+   border:3px solid chartreuse;
+   text-align: center;
+}
+
+footer  {
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 4px solid yellow;
+}
+
+footer p {
+    border: 3px solid red;
+    background-color: greenyellow;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 5px;
+    padding:5px;
+    border: 5px solid orange;
+    border-radius: 20px;
+    color: palevioletred;
+    background-color: paleturquoise;
+}
+
+nav {
+    background-color: yellow;
+}
+
+.photo {
+    background-color:rgb(78, 78, 194) ;
+    padding: 20px;
+    border: 5px solid red;
+    border-radius:10px ;
+    color: yellow;
+}
+
+body h2 {
+    color: aquamarine;
+    background-color:cadetblue;
+    text-align: center;
+    border: 5px solid lightseagreen;
+}
+
+.lol {
+    text-decoration: none;
+    color:limegreen;
+    background-color: mediumorchid;
+    border: 3px solid royalblue;
+    border-radius: 5px;
+    padding: 5px;
+}
